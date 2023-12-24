@@ -1,5 +1,5 @@
 import Image from 'next/image'
-
+import {motion} from 'framer-motion';
 export interface AnimeProp {
 	id: string
 	name: string
